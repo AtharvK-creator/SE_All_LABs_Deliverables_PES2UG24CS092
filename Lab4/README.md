@@ -94,7 +94,7 @@ defender/
 
 #### Video Demo (Before):
 <!-- Paste your 10-second video demo link or file of gameplay BEFORE changes here -->
-`[Insert Before Gameplay Video / Link Here]`
+[🎥 Watch Video Demo (Before)](https://drive.google.com/file/d/1CfVBbfefeCM9-PccpvlT4zDBF46pD0Bu/view?usp=sharing)
 
 ---
 
@@ -108,7 +108,7 @@ defender/
 
 #### Video Demo (After):
 <!-- Paste your 10-second video demo link or file of gameplay AFTER changes here -->
-`[Insert After Gameplay Video / Link Here]`
+[🎥 Watch Video Demo (After)](https://drive.google.com/file/d/1qo9ASGpndAlEw-atQ7h1Fp33zQVrIRTS/view?usp=sharing)
 
 ---
 
@@ -118,5 +118,5 @@ Submission is only the following three things:
 
 - [ ] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
 - [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
-- [ ] The Chat/LLM used page link, with the complete chat history
+- [ https://chatgpt.com/c/6abd1d71-684c-83ee-a7d6-ac812443ba15] The Chat/LLM used page link, with the complete chat history
 
